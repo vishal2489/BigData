@@ -1,0 +1,26 @@
+static void Main(string[] args)
+        {
+            string basePath = @"C:\Sheltered Harbor\";
+            var directories = GetAllDirectories();
+            var shDirectories=Directory.GetDirectories(basePath, "SH*.*");
+            foreach (var mainDirectory in shDirectories)
+            {
+                 DirectoryInfo mainDirectoryInfo = new DirectoryInfo(mainDirectory);
+                var institutionDirectories=Directory.GetDirectories(mainDirectory);
+                foreach (var directory in institutionDirectories)
+                {
+                    DirectoryInfo institutionDirectory = new DirectoryInfo(directory);
+                    var files = institutionDirectory.GetFiles();
+                    foreach (FileInfo file in files)
+                    {
+
+                        var fileNames = file.FullName.Split(Path.DirectorySeparatorChar);
+                        var renname = fileNames[fileNames.Length - 3].Insert(2, "_") + "_" + fileNames[fileNames.Length - 2] + "_" + fileNames[fileNames.Length - 1].Insert(1, "_").Insert(4, "_").Insert(8, "_");
+                        file.MoveTo(basePath + renname);
+                    }
+                    institutionDirectory.Delete();
+                }
+                mainDirectoryInfo.Delete();
+            }
+            Console.ReadLine();
+        }
