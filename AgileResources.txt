@@ -1,0 +1,135 @@
+Presentation Resources: 
+
+https://slidemodel.com – this resource will send out free templates via email. 
+www.slidescarnival.com
+
+Youtube: 
+https://www.youtube.com/watch?v=qqtPZYigfNI
+
+Books
+https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649
+
+o	Drive
+o	Extreme Ownership: How Us. Navy Seals lead and Win
+o	Radical Candor
+o	The agile samurai: How agile master deliver great software
+
+Obliquity - John Kay
+
+Competing Against Time - George Stalk
+
+The Starfish and the Spider - Ori Brafman
+
+Anti-Fragile - Nassim Taleb
+
+Founders at work - Jessica Livingston
+
+Escape Velocity - Geoffrey Moore
+
+Organized Mind - Daniel J Levitin
+
+The Checklist Manifesto - Atul Gawande
+
+How the World Sees You - Sally Hogshead
+
+Leader That Had No Title - Robin Sharma
+
+5 Dysfunctions Of A Team - Pat Lencioni
+
+Getting Naked - Pat Lencioni
+
+Leadership and Self-Deception - Abridger Institute
+
+Start With Why - Simon Sinek
+
+Turn This Ship Around - David Markquet
+
+Civil Disobedience - Henry David Thoreau
+
+Go Giver - B. Burg
+
+The Promise of a Pencil - Adam Braun
+
+Lean In - Sheryl Sandberg
+
+In the Garden of the Beast - Eric Larson
+
+Insanely Simple - Ken Seagull
+
+Creativity Inc. - Ed Catmull
+
+8 Pillars of Greek Wisdom - Stephen Bertmen
+
+The Long Road To Freedom - Nelson Mandella
+
+Power Of Habit - Charles Duhigg
+
+Hooked: How to build habit forming products - Byal
+
+Release It! - Michael Nygard
+
+Little Bets - Peter Simms
+
+Crucial Conversations - Joseph Grenny
+
+The Tao Of Pooh - Benjamin Harris
+
+Influencer - Joseph Grenny
+
+Zen and the Art of Motorcycle Maintenance - 
+
+Soar With Your Strengths - Donald Clifton
+
+Happiness Advantage - Shawn Achor
+
+David and Goliath - Malcom Gladwell
+
+Matterhorn - Carl Milantis
+
+Tipping Point - Malcom Gladwell
+
+Daily Rituals - Mason Currey
+
+Alone Together: Why We Expect More From Technology And Less From Each Other - Sherry Turkle
+
+Power of Now - Eckhart Tolle
+
+The Goal - Eliyahu Goldratt
+
+It's Not Luck - Eliyahu Goldratt
+
+The Principles of Product Development Flow - Don Reinertsen
+
+No Estimates - Vasco Duarte
+
+Critical Chain - Eliyahu Goldratt
+
+Extreme Programming Explained - Kent Beck
+
+The Nature of Software Development - Ron Jefferies
+
+The Clean Coder - Robert C. Martin
+
+Lean Software Development: An Agile Toolkit - Mary & Tom Poppendieck
+
+Working Effectively with Legacy Code - Michael C. Feathers
+
+The Phoenix Project - Gene Kim and Kevin Behr
+
+Manage It - Johanna Rothman
+
+Agile Testing: A Practical Guide for Testers and Agile Teams - Lisa Crispin and Janet Gregory
+
+Lean from the Trenches - Henrik Kniberg
+
+Continuous Delivery - Jez Humble and David Farley
+
+Behind Closed Doors: Secrets of Great Management - Johanna Rothman and Esther Derby
+
+Inspired: How to Create Products Customers Love - Marty Cagan
+
+User Story Mapping: Discover the Whole Story, Build the Right Product - Jeff Patton and Peter Economy
+
+Software in 30 Days - Ken Schwaber and Jeff Sutherland
+
+Badass: Making Users Awesome - Kathy Sierra
